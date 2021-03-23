@@ -11,6 +11,8 @@ const HAZE_PROPERTIES = {
 }
 
 
-module.exports = HAZE_ADDRESSES;
-module.exports = HAZE_PROPERTIES;
-module.exports = HAZE_COMMON_ABIS;
+module.exports = {
+  HAZE_ADDRESSES,
+  HAZE_PROPERTIES,
+  HAZE_COMMON_ABIS
+}
