@@ -9,7 +9,7 @@ const LiquidityMiningReward = require('../../contracts/LiquidityMiningReward.abi
 const TokenDistributor = require('../../contracts/TokenDistributor.abi.json');
 
 
-const HAZE_ABIS = { ERC20, SwapPair, SwapRouter, HAZE, SHAZE, Hazer, DepositReward, LiquidityMiningReward, TokenDistributor };
+const HAZE_COMMON_ABIS = { ERC20, SwapPair, SwapRouter, HAZE, SHAZE, Hazer, DepositReward, LiquidityMiningReward, TokenDistributor };
 
 
-module.exports = HAZE_ABIS;
+module.exports = HAZE_COMMON_ABIS;
