@@ -1,0 +1,23 @@
+{
+  "name": "haze-config",
+  "version": "1.0.0",
+  "description": "config package for haze app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HazeFinance/haze-config.git"
+  },
+  "keywords": [
+    "haze",
+    "config"
+  ],
+  "author": "HazeFinance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HazeFinance/haze-config/issues"
+  },
+  "homepage": "https://github.com/HazeFinance/haze-config#readme"
+}
