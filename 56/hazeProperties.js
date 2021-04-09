@@ -10,6 +10,17 @@ const HAZE_PROPERTIES = {
     '100000': {
       'merkleTreeHeight': 31
     }
+  },
+  'BNB': {
+    '1': {
+      'merkleTreeHeight': 31
+    },
+    '10': {
+      'merkleTreeHeight': 31
+    },
+    '100': {
+      'merkleTreeHeight': 31
+    }
   }
 };
 
